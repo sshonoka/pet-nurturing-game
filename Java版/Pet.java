@@ -1,8 +1,7 @@
-// 2025オブジェクト指向設計演習 最終課題 j224127　斎藤帆乃夏
 package PetNurturing; // (1)
 import java.io.Serializable; // (2)
 
-// ペットの状態（データ）を保持・管理するクラス
+// ペットの状態を保持するクラス
 
 public class Pet implements Serializable { // (3)
     private String name; // (4)
