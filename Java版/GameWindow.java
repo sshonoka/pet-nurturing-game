@@ -1,4 +1,3 @@
-// 2025オブジェクト指向設計演習 最終課題 j224127 斎藤帆乃夏
 package PetNurturing;
 
 import javax.swing.*; // (1)
